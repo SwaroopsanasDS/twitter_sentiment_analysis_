@@ -1,1 +1,8 @@
-
+tensorflow
+pandas
+numpy
+streamlit
+scikit-learn
+joblib
+streamlit-lottie
+matplotlib
